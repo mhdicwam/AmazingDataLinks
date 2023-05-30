@@ -10,8 +10,8 @@ https://til.simonwillison.net/
 https://www.sicara.fr/blog-technique
 
 **data visualisation**   
-https://chartio.com/docs/
-https://www.data-to-viz.com/
+https://chartio.com/docs/  
+https://www.data-to-viz.com/  
 
 **book reference**  
 [ Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
