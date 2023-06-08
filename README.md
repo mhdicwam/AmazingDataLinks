@@ -3,11 +3,12 @@ Useful websites/blogs to learn more about data
 
 
 
-**blogs and python tutorials**  
+**blogs about data and python tutorials**  
 https://koaning.io/  
 https://calmcode.io/  
 https://til.simonwillison.net/  
 https://www.sicara.fr/blog-technique
+https://mydataschool.com/
 
 **data visualisation**   
 https://chartio.com/docs/  
