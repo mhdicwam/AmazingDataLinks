@@ -1,4 +1,4 @@
-# AmazingDataLinks
+# AwesomeDataLinks
 Useful websites/blogs to learn more about data 
 
 ## Emoji
