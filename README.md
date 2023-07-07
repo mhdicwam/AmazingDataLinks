@@ -25,5 +25,5 @@ by Martin Kleppmann](https://github.com/ms2ag16/Books/blob/master/Designing%20Da
 
 
 
-**conference and video courses**
+**conference and video courses**  
 [Hillary Mason A Brief History of Data Engineering - Hilary Mason ](https://www.youtube.com/watch?v=wigd8eJeeFY&t=1729s)  🌟
